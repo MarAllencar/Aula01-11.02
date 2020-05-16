@@ -1,0 +1,7 @@
+C:\Users\SERGI\Desktop\Mariane Alencar\projetos\aula11.02\Aula01-Ex01Data\Aula01-Ex01Data\bin\Debug\Aula01-Ex01Data.exe.config
+C:\Users\SERGI\Desktop\Mariane Alencar\projetos\aula11.02\Aula01-Ex01Data\Aula01-Ex01Data\bin\Debug\Aula01-Ex01Data.exe
+C:\Users\SERGI\Desktop\Mariane Alencar\projetos\aula11.02\Aula01-Ex01Data\Aula01-Ex01Data\bin\Debug\Aula01-Ex01Data.pdb
+C:\Users\SERGI\Desktop\Mariane Alencar\projetos\aula11.02\Aula01-Ex01Data\Aula01-Ex01Data\obj\Debug\Aula01-Ex01Data.csprojAssemblyReference.cache
+C:\Users\SERGI\Desktop\Mariane Alencar\projetos\aula11.02\Aula01-Ex01Data\Aula01-Ex01Data\obj\Debug\Aula01-Ex01Data.csproj.CoreCompileInputs.cache
+C:\Users\SERGI\Desktop\Mariane Alencar\projetos\aula11.02\Aula01-Ex01Data\Aula01-Ex01Data\obj\Debug\Aula01-Ex01Data.exe
+C:\Users\SERGI\Desktop\Mariane Alencar\projetos\aula11.02\Aula01-Ex01Data\Aula01-Ex01Data\obj\Debug\Aula01-Ex01Data.pdb
