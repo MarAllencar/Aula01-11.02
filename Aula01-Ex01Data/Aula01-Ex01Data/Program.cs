@@ -19,7 +19,8 @@ namespace Aula01_Ex01Data
             int nrDias = DateTime.Now.Subtract(dtNascimento).Days;
 
             //Retornando ao usuário informações sobre seu nascimento.
-            Console.WriteLine(string.Format("Você já viveu {0} dias. ",nrDias));
+            Console.WriteLine("Você já viveu " + nrDias + "Dias");
+            
 
             Console.ReadKey();
         }
